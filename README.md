@@ -1,7 +1,7 @@
 # Drum Kit Template 🥁
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/wagarcdev/Drum_Kit_Template_App/master/blob/page_2_java.jpg" alt="Apresentação do Drum Kit Template" width="600">
+    <img src="https://raw.githubusercontent.com/wagarcdev/Drum_Kit_Template_App/master/blob/page_2_java.jpg" alt="Apresentação do Drum Kit Template" style="width: 100%">
 </p>
 
 ## Descrição 📄
